@@ -1,4 +1,12 @@
 # Technical Interview Homework: GitHub Dashboard
+++Disclaimer-- New to android and new to Github
+++ I have used Android Studio to consume the public events API and display it on android phone. I have only been able to pull in the API and parse the JSON and do the following tasks
+1. Heading
+2. Refresh button that refreshes the feed of the events.
+3. Display the username, repository and  the type of the public event
+4. Scroll bar functionality.
+
+
 
 
 ## Purpose
